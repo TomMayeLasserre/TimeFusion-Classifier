@@ -48,5 +48,3 @@ This project serves as a powerful and flexible tool for **classifying sequential
 *   **Adapting to different sequence lengths:** The model can be adjusted for various input sequence lengths.
 *   **Providing accurate classifications:** Through its sophisticated architecture and training process.
 *   **Feature extraction**: It extracts the most important features using techniques like VSN.
-
-In essence, this project provides a robust framework for building and deploying a state-of-the-art time series classification model based on the Temporal Fusion Transformer. While it has been used for a financial time series dataset, it could be used on any dataset that need to be classified and have numerical and categorical features.
